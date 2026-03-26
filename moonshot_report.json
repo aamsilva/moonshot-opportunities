@@ -1,0 +1,219 @@
+{
+  "generated_at": "2026-03-26T12:03:10.877081",
+  "sources": {
+    "github_trending": [
+      {
+        "name": "openclaw/openclaw",
+        "stars": 336841,
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
+        "url": "https://github.com/openclaw/openclaw",
+        "language": "TypeScript",
+        "forks": 65968
+      },
+      {
+        "name": "tensorflow/tensorflow",
+        "stars": 194351,
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "url": "https://github.com/tensorflow/tensorflow",
+        "language": "C++",
+        "forks": 75250
+      },
+      {
+        "name": "Significant-Gravitas/AutoGPT",
+        "stars": 182843,
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "language": "Python",
+        "forks": 46220
+      },
+      {
+        "name": "n8n-io/n8n",
+        "stars": 181159,
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "url": "https://github.com/n8n-io/n8n",
+        "language": "TypeScript",
+        "forks": 56186
+      },
+      {
+        "name": "ollama/ollama",
+        "stars": 166207,
+        "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+        "url": "https://github.com/ollama/ollama",
+        "language": "Go",
+        "forks": 15183
+      },
+      {
+        "name": "AUTOMATIC1111/stable-diffusion-webui",
+        "stars": 162009,
+        "description": "Stable Diffusion web UI",
+        "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+        "language": "Python",
+        "forks": 30206
+      },
+      {
+        "name": "huggingface/transformers",
+        "stars": 158438,
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+        "url": "https://github.com/huggingface/transformers",
+        "language": "Python",
+        "forks": 32616
+      },
+      {
+        "name": "f/prompts.chat",
+        "stars": 154291,
+        "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
+        "url": "https://github.com/f/prompts.chat",
+        "language": "HTML",
+        "forks": 20273
+      },
+      {
+        "name": "langflow-ai/langflow",
+        "stars": 146250,
+        "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+        "url": "https://github.com/langflow-ai/langflow",
+        "language": "Python",
+        "forks": 8661
+      },
+      {
+        "name": "langgenius/dify",
+        "stars": 134567,
+        "description": "Production-ready platform for agentic workflow development.",
+        "url": "https://github.com/langgenius/dify",
+        "language": "TypeScript",
+        "forks": 20947
+      }
+    ],
+    "hackernews": [
+      {
+        "title": "From zero to a RAG system: successes and failures",
+        "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+        "score": 39,
+        "comments": 10
+      },
+      {
+        "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+        "url": "https://github.com/lightfeed/extractor",
+        "score": 49,
+        "comments": 34
+      }
+    ]
+  },
+  "top_opportunities": [
+    {
+      "name": "openclaw/openclaw",
+      "stars": 336841,
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
+      "url": "https://github.com/openclaw/openclaw",
+      "language": "TypeScript",
+      "forks": 65968,
+      "moonshot_score": 3,
+      "timestamp": "2026-03-26T12:03:14.564497"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "stars": 194351,
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "language": "C++",
+      "forks": 75250,
+      "moonshot_score": 3,
+      "timestamp": "2026-03-26T12:03:14.564534"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "stars": 182843,
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "language": "Python",
+      "forks": 46220,
+      "moonshot_score": 3,
+      "timestamp": "2026-03-26T12:03:14.564543"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "stars": 181159,
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "url": "https://github.com/n8n-io/n8n",
+      "language": "TypeScript",
+      "forks": 56186,
+      "moonshot_score": 3,
+      "timestamp": "2026-03-26T12:03:14.564549"
+    },
+    {
+      "name": "ollama/ollama",
+      "stars": 166207,
+      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "url": "https://github.com/ollama/ollama",
+      "language": "Go",
+      "forks": 15183,
+      "moonshot_score": 3,
+      "timestamp": "2026-03-26T12:03:14.564554"
+    },
+    {
+      "name": "AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 162009,
+      "description": "Stable Diffusion web UI",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "language": "Python",
+      "forks": 30206,
+      "moonshot_score": 3,
+      "timestamp": "2026-03-26T12:03:14.564560"
+    },
+    {
+      "name": "huggingface/transformers",
+      "stars": 158438,
+      "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "url": "https://github.com/huggingface/transformers",
+      "language": "Python",
+      "forks": 32616,
+      "moonshot_score": 3,
+      "timestamp": "2026-03-26T12:03:14.564566"
+    },
+    {
+      "name": "f/prompts.chat",
+      "stars": 154291,
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
+      "language": "HTML",
+      "forks": 20273,
+      "moonshot_score": 3,
+      "timestamp": "2026-03-26T12:03:14.564572"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "stars": 146250,
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "url": "https://github.com/langflow-ai/langflow",
+      "language": "Python",
+      "forks": 8661,
+      "moonshot_score": 3,
+      "timestamp": "2026-03-26T12:03:14.564577"
+    },
+    {
+      "name": "langgenius/dify",
+      "stars": 134567,
+      "description": "Production-ready platform for agentic workflow development.",
+      "url": "https://github.com/langgenius/dify",
+      "language": "TypeScript",
+      "forks": 20947,
+      "moonshot_score": 3,
+      "timestamp": "2026-03-26T12:03:14.564582"
+    },
+    {
+      "title": "From zero to a RAG system: successes and failures",
+      "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+      "score": 39,
+      "comments": 10,
+      "moonshot_score": 0,
+      "timestamp": "2026-03-26T12:03:14.564591"
+    },
+    {
+      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "url": "https://github.com/lightfeed/extractor",
+      "score": 49,
+      "comments": 34,
+      "moonshot_score": 0,
+      "timestamp": "2026-03-26T12:03:14.564598"
+    }
+  ]
+}
